@@ -8,7 +8,7 @@
 #include <TMath.h>
 #include <RQ_OBJECT.h>
 #include <iostream>
-
+//test with github
 class FitApp {
     RQ_OBJECT("FitApp")  // Required for signal-slot connections
 
