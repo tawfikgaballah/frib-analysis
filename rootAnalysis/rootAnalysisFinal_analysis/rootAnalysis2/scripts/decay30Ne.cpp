@@ -1,0 +1,5 @@
+void decay30Ne(){
+
+
+
+}
